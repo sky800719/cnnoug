@@ -10,3 +10,7 @@ cnnoug
 2018/12/22 第二次线下活动：https://www.bagevent.com/event/1871091
 
            PDF下载：https://github.com/sky800719/cnnoug/tree/master/20181222
+           
+2019/04/20 第三次线下活动：https://www.bagevent.com/event/2562923
+
+           PDF下载：https://github.com/sky800719/cnnoug/tree/master/20190420
